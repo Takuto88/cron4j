@@ -1,0 +1,46 @@
+10
+
+dir
+74
+https://cron4j.svn.sourceforge.net/svnroot/cron4j/tags/2.2.5/examples
+https://cron4j.svn.sourceforge.net/svnroot/cron4j
+
+
+
+2009-12-21T16:26:27.006984Z
+46
+cpelliccia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30627792-964a-4770-8836-e04b23abaf83
+
+6-web-app-integration
+dir
+
+2-scheduling-from-a-file
+dir
+
+4-scheduler-listener
+dir
+
+5-executors
+dir
+
+3-extending-task
+dir
+
+1-quickstart
+dir
+

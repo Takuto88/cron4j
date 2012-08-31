@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/examples/6-web-app-integration/src/example
+END
+ExecutionServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/examples/6-web-app-integration/src/example/ExecutionServlet.java
+END
+MyTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/examples/6-web-app-integration/src/example/MyTask.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/examples/6-web-app-integration/src/example/Constants.java
+END
+SchedulerServletContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/examples/6-web-app-integration/src/example/SchedulerServletContextListener.java
+END
+MyTaskCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/examples/6-web-app-integration/src/example/MyTaskCollector.java
+END

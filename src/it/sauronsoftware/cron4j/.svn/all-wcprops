@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j
+END
+ValueMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/ValueMatcher.java
+END
+TaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/TaskExecutor.java
+END
+SchedulingPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/SchedulingPattern.java
+END
+SchedulerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/SchedulerListener.java
+END
+TaskExecutorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/TaskExecutorListener.java
+END
+SchedulingPatternValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/SchedulingPatternValidator.java
+END
+RunnableTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/RunnableTask.java
+END
+LauncherThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/LauncherThread.java
+END
+IntArrayValueMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/IntArrayValueMatcher.java
+END
+Predictor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/Predictor.java
+END
+TaskExecutionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/TaskExecutionContext.java
+END
+GUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/GUIDGenerator.java
+END
+ProcessTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/ProcessTask.java
+END
+AlwaysTrueValueMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/AlwaysTrueValueMatcher.java
+END
+MemoryTaskCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/MemoryTaskCollector.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/Task.java
+END
+InvalidPatternException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/InvalidPatternException.java
+END
+StreamBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/StreamBridge.java
+END
+TimerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/TimerThread.java
+END
+FileTaskCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/FileTaskCollector.java
+END
+DayOfMonthValueMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/DayOfMonthValueMatcher.java
+END
+TaskCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/TaskCollector.java
+END
+TaskTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/TaskTable.java
+END
+StaticMethodTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/StaticMethodTask.java
+END
+Scheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/Scheduler.java
+END
+CronParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/CronParser.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cron4j/!svn/ver/73/tags/2.2.5/src/it/sauronsoftware/cron4j/package.html
+END

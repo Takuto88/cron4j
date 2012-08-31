@@ -1,0 +1,62 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>it.sauronsoftware</groupId>
+    <artifactId>cron4j</artifactId>
+    <version>2.2.5</version>
+    <packaging>jar</packaging>
+    <description>
+	cron4j is a scheduler for the Java platform which is very similar to the UNIX cron daemon.
+	With cron4j you can launch, from within your Java applications, any task you need at the right time,
+	according to some simple rules.
+    </description>
+    <distributionManagement>
+        <repository>
+            <id>sauronsoftware-github</id>
+            <url>https://raw.github.com/Takuto88/sauronsoftware-maven/master/releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>sauronsoftware-github-snapshots</id>
+            <url>https://raw.github.com/Takuto88/sauronsoftware-maven/master/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
+    <build>
+        <sourceDirectory>src</sourceDirectory>
+        <scriptSourceDirectory>src</scriptSourceDirectory>
+        <testSourceDirectory>src</testSourceDirectory>
+        <resources>
+            <resource>
+                <directory>src</directory>
+            </resource>
+        </resources>
+        <testResources>
+            <testResource>
+                <directory>src</directory>
+            </testResource>
+        </testResources>
+        <plugins>
+            <plugin>
+                <artifactId>maven-source-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.4</source>
+                    <target>1.4</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <artifactId>maven-javadoc-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>attach-javadoc</id>
+                        <goals>
+                            <goal>jar</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

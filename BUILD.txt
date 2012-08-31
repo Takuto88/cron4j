@@ -1,0 +1,9 @@
+You need Apache Maven to build cron4j.
+
+See: http://maven.apache.org/
+
+To compile type "mvn compile"
+
+To make JARs type "mvn package"
+
+Compilation and packaging output will be in the "target" folder
